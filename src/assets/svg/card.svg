@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1024px" height="1024px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+
+	<polygon id="border" fill="none" stroke="none" stroke-miterlimit="10" points="828.365,25.65 1023.69,626.812 512.312,998.349 
+		0.936,626.812 196.266,25.65 "/>
+	<polygon id="art" fill="none" stroke="none" stroke-miterlimit="10" points="798.439,65.133 976.948,614.547 509.587,954.104 
+		42.23,614.547 220.751,65.133 "/>
+	<polygon id="name-tag--border" fill="none" stroke="none" stroke-miterlimit="10" points="830.101,162.582 841.231,196.842 226,196.842 
+		238,162.582 "/>
+	<polygon id="art-label" fill="none" stroke="none" stroke-miterlimit="10" points="841.231,196 862.729,265.812 204,265.812 
+		227,196 "/>
+	<polygon id="name-tag" fill="none" stroke="none" stroke-miterlimit="10" points="830.101,162.582 238,162.582 270,64
+		798.439,64 "/>
+	<polygon id="thick-stroke--left" fill="none" stroke="none" stroke-miterlimit="10" points="72.414,678.743 0.936,626.812 196.266,25.65 283.289,25.65 
+		"/>
+	<polygon id="thick-stroke--right" fill="none" stroke="none" stroke-miterlimit="10" points="952.213,678.743 1023.69,626.812 828.361,25.65 
+		741.338,25.65 "/>
+	<polygon id="icon" fill="none" stroke="none" stroke-miterlimit="10" points="685.705,871.829 511.573,998 339.084,873.023 
+		511.573,746.78 "/>
+	<polygon id="arrow-right--outer" fill="none" stroke="none" stroke-miterlimit="10" points="828.365,26 1023.69,624.435 685.705,871.829 
+		510,748 781.709,549.522 605.116,26 "/>
+	<polygon id="arrow-right--inner" fill="none" stroke="none" stroke-miterlimit="10" points="798.439,65.133 976.948,614.547 654.081,849.122 
+		546.896,772.146 830.101,562.716 662.079,65.133 "/>
+	<polygon id="arrow-left--outer" fill="none" stroke="none" stroke-miterlimit="10" points="196.262,26 0.936,624.435 338.921,871.829 513.054,746.78 
+		242.917,549.522 419.511,26 "/>
+	<polygon id="arrow-left--inner" fill="none" stroke="none" stroke-miterlimit="10" points="222.361,65.133 43.853,614.547 366.719,849.122 
+		473.904,772.146 190.701,562.716 358.722,65.133 "/>
+</svg>
